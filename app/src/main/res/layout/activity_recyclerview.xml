@@ -1,0 +1,12 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent">
+
+    <com.amoldzhang.webaddhtmlforandroid.view.pulltorefresh.PullToRefreshRecyclerView
+        xmlns:ptr="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/main_act_recyclerview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        ptr:ptrMode="both"/>
+
+</FrameLayout>

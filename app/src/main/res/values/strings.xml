@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">WebAddHtmlForAndroid</string>
+
+    <!-- 页面名称 -->
+    <string name="main_navigation_home">首页</string>
+    <string name="main_navigation_car">货运</string>
+    <string name="main_navigation_found">发现</string>
+    <string name="main_navigation_my">我的</string>
+
+    <string name="jingdong_pull_label">下拉可以刷新</string>
+    <string name="jingdong_refreshing_label">正在加载中</string>
+    <string name="jingdong_release_label">松开后刷新</string>
+
+    <string name="tmall_pull_label">下拉刷新</string>
+    <string name="tmall_refreshing_label">正在刷新...</string>
+    <string name="tmall_release_label">松开立即刷新</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_multi_item_list_view">MultiItemListViewActivity</string>
+    <string name="title_activity_recycler_view">RecyclerViewActivity</string>
+    <string name="title_activity_multi_item_rv">MultiItemRvActivity</string>
+    <string name="title_activity_rv_width_header">RvWidthHeaderActivity</string>
+
+
+
+
 </resources>
